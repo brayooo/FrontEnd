@@ -1,4 +1,4 @@
-**MiniAlura web**
+# **MiniAlura web**
 
 This is a recreation of the alura web courses. This repository contains the source code of the website.
 ## Features

@@ -1,4 +1,4 @@
-**Games web**
+# **Games web**
 
 This is a recreation of a website about games and games ads. This repository contains the source code of the website.
 

@@ -1,4 +1,4 @@
-**PetShop web**
+# **PetShop web**
 
 PetShop web is a prototype of a possible implementatio for an online petshop website. This repository contains the source code for the website.
 ## Features

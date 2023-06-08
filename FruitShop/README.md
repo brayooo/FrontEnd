@@ -1,4 +1,4 @@
-**FruitShop web**
+# **FruitShop web**
 
 FruitShop web is a prototype of a webiste using the folder assets to organize the css files. This repository contains the source code for the website.
 ## Features

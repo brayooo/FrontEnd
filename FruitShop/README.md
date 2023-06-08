@@ -1,4 +1,10 @@
-# arquitectura-css
-curso de arquitectura de Alura. 
+**FruitShop web**
 
-Prototipo: https://www.figma.com/file/ZIZuMVCGh6cE3UQvTbFsuj/alura-bootstrap?node-id=0%3A1
+FruitShop web is a prototype of a webiste using the folder assets to organize the css files. This repository contains the source code for the website.
+## Features
+
+- Responsive design and adapted to mobile devices.
+- Main page
+- Section with the receipes.
+
+![Preview content](https://i.imgur.com/8yDPawD.png)
